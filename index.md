@@ -58,8 +58,8 @@ I scratch built a flying wing glider equipped with a Pixhawk, a Raspberry Pi, an
 This little 3D-printed robot was an experiment in deep RL. I implemented a DQN with experience replay, and trained this robot to avoid obstacles without any simulation. Backprop handled on offboard GPU, forward pass on the onboard raspberry pi. After about 16 hours the robot was consistently able to avoid obstacles.
 
 <p float="left">
-  <img src="dqn/a.jpg" width="40%" />
-  <img src="dqn/b.jpg" width="40%" /> 
+  <img src="dqn/front.jpg" width="40%" />
+  <img src="dqn/quarter.jpg" width="40%" /> 
 </p>
 
 [github](https://github.com/IzzyBrand/ReAI_explorerBot) | [Training progress video](https://www.youtube.com/watch?v=emgjqfE0E44)
