@@ -1,5 +1,5 @@
 # Projects by Izzy Brand
-Here's a smattering of things I've made. For every project listed below it was either an individual project, or I was the leader of the team. There is so much more than I could include in this portfolio.
+Here's a smattering of things I've made. For every project listed below, it was either an individual project, or I was the leader of the team. There is so much more than I could include in this portfolio.
 
 ### LED Music Visualizer, 2018
 
@@ -198,5 +198,47 @@ Homemade flying wing equipped with APM2.5 autopilot. Flight time 35+ minutes.
 </p>
 
 [Slow Motion Launch Video](https://www.youtube.com/watch?v=obun7-xxfmE) | [Autonomous Flight to 1km](https://www.youtube.com/watch?v=9jJ9ODU21fM)
+
+---
+
+### Lots and lots of (mostly flying) things, pre 2016
+
+Designed and built from scratch
+
+<p float="left">
+  <img src="old_planes/IMG_1682.jpg" width="30%" />
+  <img src="old_planes/IMG_0146.JPG" width="30%" />
+  <img src="old_planes/IMG_2656.JPG" width="30%" />
+  <img src="old_planes/IMG_0214.JPG" width="30%" />
+  <img src="old_planes/IMG_0490.JPG" width="30%" />
+  <img src="old_planes/IMG_0492.JPG" width="30%" />
+  <img src="old_planes/IMG_0587.JPG" width="30%" />
+  <img src="old_planes/IMG_0696.JPG" width="30%" />
+  <img src="old_planes/IMG_0712.JPG" width="30%" />
+  <img src="old_planes/IMG_0803.JPG" width="30%" />
+  <img src="old_planes/IMG_0819.JPG" width="30%" />
+  <img src="old_planes/IMG_1025.JPG" width="30%" />
+  <img src="old_planes/IMG_1026.JPG" width="30%" />
+  <img src="old_planes/IMG_1280.JPG" width="30%" />
+  <img src="old_planes/IMG_1283.JPG" width="30%" />
+  <img src="old_planes/IMG_1844.JPG" width="30%" />
+  <img src="old_planes/IMG_1928.JPG" width="30%" />
+  <img src="old_planes/IMG_4369.PNG" width="30%" />
+  <img src="old_planes/IMG_0258.JPG" width="30%" />
+  <img src="old_planes/IMG_0089.JPG" width="30%" />
+  <img src="old_planes/IMG_0282.JPG" width="30%" />
+  <img src="old_planes/IMG_1000.JPG" width="30%" />
+  <img src="old_planes/IMG_1631.JPG" width="30%" />
+  <img src="old_planes/IMG_1642.JPG" width="30%" />
+  <img src="old_planes/IMG_1679.JPG" width="30%" />
+  <img src="old_planes/IMG_1793.JPG" width="30%" />
+  <img src="old_planes/IMG_1902.JPG" width="30%" />
+  <img src="old_planes/IMG_1959.JPG" width="30%" />
+  <img src="old_planes/IMG_2106.JPG" width="30%" />
+  <img src="old_planes/IMG_2148.JPG" width="30%" />
+  <img src="old_planes/IMG_1221.JPG" width="30%" />
+  <img src="old_planes/IMG_1265.JPG" width="30%" />
+
+</p>
 
 ---
