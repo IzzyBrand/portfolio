@@ -1,19 +1,7 @@
 # Projects by Izzy Brand
 Here's a smattering of things I've made. For every project listed below, it was either an individual project, or I was the leader of the team. There is so much more than I could include in this portfolio.
 
-### LED Music Visualizer, 2018
 
-Raspberry Pi music visualizer written in python. Uses an ADC to sample the audio stream at 3.6kHz. FFT for responding to frequency. Flask webserver allows users to switch between visualization modes.
-
-<p float="left">
-  <img src="ledvis/a.JPG" width="40%" />
-  <img src="ledvis/b.jpeg" width="17%" /> 
-  <img src="ledvis/c.jpeg" width="17%" /> 
-</p>
-
-[github](https://github.com/IzzyBrand/ledvis)
-
----
 ### PiDrone and Robotics Course, 2017-2018
 
 I developed a Raspberry Pi based drone. The drone uses a downward facing camera to localize. The entire flight controller stack is implemented in python using ROS. I Head TAed an introductory robotics course at Brown University in Fall 2017 in which every student built and programmed a drone. The course is running again this Fall, 2018.
@@ -80,6 +68,19 @@ We developed a flight computer and 3D printed nosecone for apogee detection, par
 
 ---
 
+### LED Music Visualizer, 2018
+
+Raspberry Pi music visualizer written in python. Uses an ADC to sample the audio stream at 3.6kHz. FFT for responding to frequency. Flask webserver allows users to switch between visualization modes.
+
+<p float="left">
+  <img src="ledvis/a.JPG" width="40%" />
+  <img src="ledvis/b.jpeg" width="17%" /> 
+  <img src="ledvis/c.jpeg" width="17%" /> 
+</p>
+
+[github](https://github.com/IzzyBrand/ledvis)
+
+---
 ### Rocket onboard computer for Apogee detection, 2017
 
 We built this onboard computer for data logging and apogee detection on rockets (in order to deploy a parachute). In addition to a gyroscope and accelerometer, we included a microphone because we were curious if we could use the sound of rushing wind to improve apogee detection. This computer was replaced by a Raspberry Pi 0 in 2018.
@@ -107,7 +108,7 @@ lunadrop is a comprehensive drone delivery system. Users visit our web app to pl
 [github](https://github.com/IzzyBrand/dro.ne) | [Demo video](https://www.youtube.com/watch?v=Rt-q0L54g0c)
 
 ---
-### Assistive Rangefinder, 2017
+### Assistive Rangefinder for the Blind, 2017
 
 After my grandfather blinded himself, I built this device to act like a cane. It used an ultrasonic distance sensor and would make a subtle noise to indicate how close he was to obstacles. 
 
@@ -120,7 +121,7 @@ After my grandfather blinded himself, I built this device to act like a cane. It
 
 ### 3D printed rockets, 2017
 
-We use 3D printers to make most components for rockets. All the models are parameterized, so they can be used to build many different sizes of rockets.
+We designed 3D-printable components rockets. All the models are parameterized, so they can be used to build many different sizes of rockets.
 
 <p float="left">
   <img src="rockets/stls.png" width="67%" />
@@ -187,6 +188,21 @@ I designed and built a large X8 multirotor for Above Summit LLC. It was specced 
 [Maiden flight video](https://www.youtube.com/watch?v=EVqrgPChW-E)
 
 ---
+
+### The Fish, 2014
+
+I designed this plane to be easy to build and fly. The lower center of gravity and polyhedtral makes the plane return to level without any pilot input. I published plans and an instructional video online, and about 20 people have sent me videos of their own Fishes!
+
+<p float="left">
+  <img src="the_fish/plans.png" width="30%" />
+  <img src="the_fish/parts.JPG" width="30%" /> 
+  <img src="the_fish/assembled.JPG" width="30%" /> 
+</p>
+
+[Build video and flight demo](https://www.youtube.com/watch?v=kobJpBQO3hs) | [Writeup](https://www.flitetest.com/articles/the-fish-a-scratch-built-slow-flier)
+
+---
+
 ### Panda Flying Wing, 2014
 
 Homemade flying wing equipped with APM2.5 autopilot. Flight time 35+ minutes.
