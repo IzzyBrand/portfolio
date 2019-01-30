@@ -1,6 +1,7 @@
 # Projects by Izzy Brand
 Here's a smattering of things I've made. For every project listed below, it was either an individual project, or I was the leader of the team. There is so much more than I could include in this portfolio.
 
+For better formatting and higher resolution, visit the online version at [https://izzybrand.github.io/portfolio/](https://izzybrand.github.io/portfolio/)
 
 ### PiDrone and Robotics Course, 2017-2018
 
@@ -102,6 +103,20 @@ I designed and built a large X8 multirotor for Above Summit LLC. It was specced 
 </p>
 
 [Maiden flight video](https://www.youtube.com/watch?v=EVqrgPChW-E)
+
+---
+
+### Particle based lifelike system, 2019
+
+This a particle system that runs in browser. Interactions between different types of particles yields emergent lifelike behavior
+
+<p float="left">
+  <img src="particleLife/seq_1.png" width="32%" />
+  <img src="particleLife/seq_2.png" width="32%" />
+  <img src="particleLife/seq_3.png" width="32%" />
+</p>
+
+[github](https://github.com/IzzyBrand/particleLife)
 
 ---
 
