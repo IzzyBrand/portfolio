@@ -116,7 +116,7 @@ This a particle system that runs in browser. Interactions between different type
   <img src="particleLife/seq_3.png" width="32%" />
 </p>
 
-[github](https://github.com/IzzyBrand/particleLife)
+[github](https://github.com/IzzyBrand/particleLife) | [Website](https://izzybrand.github.io/particleLife/)
 
 ---
 
