@@ -171,7 +171,7 @@ Raspberry Pi music visualizer written in python. Uses an ADC to sample the audio
   <img src="ledvis/c.jpeg" width="17%" />
 </p>
 
-[github](https://github.com/IzzyBrand/ledvis)
+[github](https://github.com/IzzyBrand/ledvis) | [Video](https://www.youtube.com/watch?v=6FcszEPPI6c)
 
 ---
 
