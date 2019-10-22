@@ -1,7 +1,15 @@
 # Projects by Izzy Brand
 Here's a smattering of things I've made. For every project listed below, it was either an individual project, or I was the leader of the team. There is so much more than I could include in this portfolio.
 
-For better formatting and higher resolution, visit the online version at [https://izzybrand.github.io/portfolio/](https://izzybrand.github.io/portfolio/)
+### BeanBagBot, 2019
+
+I built a giant motorized beanbag to roam around on Brown's main green. The chassis is constructed from 80/20 aluminum and designed to carry up to 1000lbs. The vehicle hosts a WiFi network which allows any user to connect and control from a local website. The vehicle is belt-driven by four brushless motors.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sxEttaBrUHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[github](https://github.com/IzzyBrand/beanbagbot) |  [Build Video](https://www.youtube.com/watch?v=sxEttaBrUHI)
+
+---
 
 ### PiDrone and Robotics Course, 2017-2018
 
