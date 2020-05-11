@@ -1,5 +1,17 @@
 # Projects by Izzy Brand
-Here's a smattering of things I've made. For every project listed below, it was either an individual project, or I was the leader of the team. There is so much more than I could include in this portfolio.
+Here's a smattering of things I've made. For every project listed below, it was either an individual project, or I was a leader of the team. There is so much more than I could include in this portfolio.
+
+### Optimal Trajectories and Control for kite-based wind power, 2020
+
+This was a final project for MIT's Underactuated Robotics course. My partner and I implemented a dynamics model for a kite tethered to a generator and used nonlinear constrained optimization to identify trajectories which maximize the power output of the system. We then used MPC to track the optimal trajectories with environmental disturbances.
+
+<p float="left">
+  <img src="kiteTrajOpt/static_symmetric_traj.png" width="32%" />
+  <img src="kiteTrajOpt/track_traj.gif" width="32%" />
+  <img src="kiteTrajOpt/power_traj.png" width="32%" />
+</p>
+
+[github](https://github.com/h2r/kiteTrajOpt)
 
 ### BeanBagBot, 2019
 
