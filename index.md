@@ -11,7 +11,7 @@ This was a final project for MIT's Underactuated Robotics course. My partner and
   <img src="kiteTrajOpt/power_traj.png" width="32%" />
 </p>
 
-[github](https://github.com/h2r/kiteTrajOpt)
+[github](https://github.com/IzzyBrand/kiteTrajOpt)
 
 ### BeanBagBot, 2019
 
