@@ -1,6 +1,18 @@
 # Projects by Izzy Brand
 Here's a smattering of things I've made. For every project listed below, it was either an individual project, or I was a leader of the team. There is so much more than I could include in this portfolio.
 
+### Performing a Bottle Flip with Robot Arm, 2020
+
+This was a final project for MIT's Robotic Manipulation course, implemented in Drake. We took a two step approach: first optimize for a release state of the bottle that would land it on the target, and then solve for a feasible trajectory that would throw the bottle from that state. Special care was taken to model the dissipation of energy on impact and ensure that the bottle doesn't tip. Although we succeeded in landing the bottle consistently, we were unable to resolve collision checking errors in the optimization for the feasable arm trajectory before the submission deadline.
+
+<p float="left">
+  <img src="robot_bottle_flip/impact.png" width="35%" />
+  <img src="robot_bottle_flip/pick.gif" width="29%" />
+  <img src="robot_bottle_flip/flip_up.gif" width="33%" />
+</p>
+
+[github](https://github.com/IzzyBrand/robotBottleFlip) | [Watch the Video](https://youtu.be/oETec-RS6P4) | [Read the Paper](https://github.com/IzzyBrand/robotBottleFlip/blob/main/Robot_Bottle_Flip.pdf)
+
 ### Optimal Trajectories and Control for kite-based wind power, 2020
 
 This was a final project for MIT's Underactuated Robotics course. My partner and I implemented a dynamics model for a kite tethered to a generator and used nonlinear constrained optimization to identify trajectories which maximize the power output of the system. We then used MPC to track the optimal trajectories with environmental disturbances.
